@@ -1,0 +1,14 @@
+{
+  "apps": [
+    {
+      "serverURL": "http://app.herokuapp.com/parse", // Hosted on Parse.com
+      "appId": "app",
+      "masterKey": "master",
+      "javascriptKey": "myJavascriptKey",
+      "restKey": "myRestKey",
+      "appName": "app",
+      "production": true
+    },
+    
+  ]
+}
